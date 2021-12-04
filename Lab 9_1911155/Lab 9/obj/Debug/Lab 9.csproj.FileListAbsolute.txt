@@ -1,0 +1,18 @@
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\EntityFramework.dll
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\EntityFramework.xml
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.AssemblyReference.cache
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab_9.Form1.resources
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.GenerateResource.cache
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.CopyComplete
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab 9.pdb
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab_9.UpdateCateGoryForm.resources
+C:\Users\Nhat Huy\Desktop\Study\Lab 9\Lab 9\obj\Debug\Lab_9.UpdateFoodForm.resources

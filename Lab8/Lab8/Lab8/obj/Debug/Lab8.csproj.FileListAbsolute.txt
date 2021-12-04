@@ -1,0 +1,16 @@
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\BusinessLogic.dll
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\DataAccess.dll
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\BusinessLogic.pdb
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\bin\Debug\DataAccess.pdb
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.Food.resources
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.CopyComplete
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Study\LTCSDL\Lab8\Lab8\Lab8\obj\Debug\Lab8.pdb

@@ -1,0 +1,14 @@
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.frmFood.resources
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.BillsForm.resources
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.BillDetailsForm.resources
+D:\Study\LTCSDL\Lab6\Lab6\Lab6\obj\Debug\Lab6.AccountManagerForm.resources

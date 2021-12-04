@@ -1,0 +1,16 @@
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.csprojAssemblyReference.cache
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.frmTrungTam.resources
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.Properties.Resources.resources
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.csproj.GenerateResource.cache
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.AssemblyInfoInputs.cache
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.AssemblyInfo.cs
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.exe
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.deps.json
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.runtimeconfig.json
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.runtimeconfig.dev.json
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.dll
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2_1.pdb
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.dll
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.pdb
+C:\Users\Nhat Huy\Desktop\Study\LTCSDL\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2_1.genruntimeconfig.cache

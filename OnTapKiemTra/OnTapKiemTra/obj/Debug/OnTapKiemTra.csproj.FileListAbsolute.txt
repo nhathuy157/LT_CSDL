@@ -1,0 +1,16 @@
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\OnTapKiemTra.exe.config
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\OnTapKiemTra.exe
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\OnTapKiemTra.pdb
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.csprojAssemblyReference.cache
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.Form1.resources
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.Properties.Resources.resources
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.csproj.GenerateResource.cache
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.csproj.CoreCompileInputs.cache
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.exe
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.pdb
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\Data\dssv.txt
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.TTSinhVien.resources
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.csproj.ResolveComReference.cache
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\Newtonsoft.Json.dll
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\bin\Debug\Newtonsoft.Json.xml
+D:\Study\LTCSDL\OnTapKiemTra\OnTapKiemTra\obj\Debug\OnTapKiemTra.csproj.CopyComplete

@@ -1,0 +1,6 @@
+﻿﻿1914846*Lê Văn*Thắng*9/03/2001*CTK43*285871277*0916025623*Phù Đổng Thiên Vương, P8, Đà Lạt*1*Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,Lập trình CSDL
+1917526*Trần Ngọc*Nam*6/05/2000*CTK43*285123455*0987676781*Đồi Thông Tin, P8, Đà Lạt*0*Đồ án cơ sở,Lập trình trên thiết bị di động,Lập tarình CSDL
+1911160*Mai Ngọc*Bảo*1/1/2001*CTK43*285845611*0865447141*Trần Khánh Dư, P8, Đà Lạt*1*Đồ án cơ sở,Phương pháp NCKH,Mạng máy tính,An toàn và bảo mật
+2114984*Nguyễn Hoàng*Hiếu*8/16/2003*CTK45*285670222*0865443321*Phù Đổng Thiên Vương, P8, Đà Lạt*1*Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,Lập trình CSDL
+1914555*Đào Xuân*Lộc*3/16/2001*CTK43*285876589*0916025623*Đồi Thông Tin, P8, Đà Lạt*1*Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,Lập trình CSDL
+1914788*Lê Mỹ*Lành*8/28/2001*CTK43*284570233*0916025623*Đà Lạt*0*Đồ án cơ sở,Phương pháp NCKH,Lập trình trên thiết bị di động,Lập trình CSDL

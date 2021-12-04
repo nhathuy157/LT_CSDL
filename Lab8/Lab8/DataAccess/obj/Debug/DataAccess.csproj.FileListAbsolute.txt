@@ -1,0 +1,6 @@
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\bin\Debug\DataAccess.dll
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\bin\Debug\DataAccess.pdb
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\obj\Debug\DataAccess.dll
+D:\Study\LTCSDL\Lab8\Lab8\DataAccess\obj\Debug\DataAccess.pdb

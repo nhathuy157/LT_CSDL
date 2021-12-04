@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "718d2f46-9777-4060-b1c3-89460ef9f95e": {
+      "ProjectGuid": "718d2f46-9777-4060-b1c3-89460ef9f95e",
+      "DisplayName": "Lab8",
+      "ColorIndex": 0
+    },
+    "a8731966-2e54-461b-b70c-0e977a9db685": {
+      "ProjectGuid": "a8731966-2e54-461b-b70c-0e977a9db685",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "dacd78fe-9254-412b-bc4d-8a357d191b21": {
+      "ProjectGuid": "dacd78fe-9254-412b-bc4d-8a357d191b21",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
